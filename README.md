@@ -1,7 +1,7 @@
 # Integrantes
 Héctor Muñoz. 202373628-7.
 Matías Romo. 202373632-5.
-Vicente Jimenez. 202373523-k
+Vicente Jimenez. 202373523-k.
 
 ## Build with Lovable
 
@@ -11,9 +11,9 @@ Continue developing this project in the [Lovable editor](https://lovable.dev/pro
 - **Stay in sync**: every change made in Lovable is committed straight to this repository.
 - **Full ownership**: this code is yours. Push to `main` on GitHub and your changes sync back into Lovable, ready for your next prompt.
 
-## Development
+## Ejecución
 
-Prefer working locally? You need Node.js and bun
+Para ejecutar localmente, se necesita node.js y bun. Ya instalados, ejecutar los siguientes comandos:
 
 ```sh
 git clone <this-repository-url>
