@@ -1,13 +1,7 @@
 # Integrantes
-Héctor Muñoz. 202373
-
-
-y te adjunto nuestro informe
-
-Entonces recuerda, quiero hacer la siguiente meta:
-Creación Simplificada de Reclamos: Formulario intuitivo y optimizado, eliminando campos confusos del sistema anterior (como "Notificar en nombre de").
-
-This project was built with [Lovable](https://lovable.dev).
+Héctor Muñoz. 202373628-7.
+Matías Romo. 202373632-5.
+Vicente Jimenez. 202373523-k
 
 ## Build with Lovable
 
